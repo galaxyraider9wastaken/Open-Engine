@@ -1,2 +1,2 @@
 # Open-Engine
-Open Engine is A 3d/2d drawing engine in the making it is similar to that of unity but you can communicate with the engine more openly like add different shaders and things.
+Open Engine is a 3D engine used for making all kinds of GUI and making games. Ipen Engine uses OpenGl to create windows and graphics usable for businesses and game studios to make applications easly and adds advanced functionalty for pyhisics and lighting.
