@@ -8,5 +8,5 @@ public:
   static String Split(String ToSplit, char SplitChar);
   static String GetWord(String ToGet, String Word);
   static int ConvertToInt(String string);
-}
+};
 #endif
